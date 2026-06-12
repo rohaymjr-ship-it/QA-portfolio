@@ -80,53 +80,58 @@ Completing my QA training at Machinfy Academy marked the beginning of my journey
 - HAVING
 
 
-Rest API testing
-ISTQB Foundation Level knowledge
-Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
-Software testing
-Creating test cases
-Reporting bugs
-Creating bug reports
-Basic Python - for test automation
-Basic HTML and CSS
-Creating documentation
-experience with testing SaaS web applications
-performing smoke tests
-testing UAT
-scrum workflow
-Soft skills 📁
-precision
-communication
-assertiveness
-patience
-empathy
-Courses 📓
-QA Training + PORTFOLIO
-DareIT Challenge - automated tests + Python PORTFOLIO
-DareIT Challenge - become a manual tester PORTFOLIO
-Operating DevTools
-CherryIT COLT 1/2023 - Postman & Rest API - PORTFOLIO
-CherryIT COLT 2/2023 - Git - PORTFOLIO
-Fundamentals of manual software testing
-SQL training in 120 minutes
-Postman - REST API testing
+## Rest API testing
+## ISTQB Foundation Level knowledge
+* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+- Software testing
+- Creating test cases
+- Reporting bugs
+- Creating bug reports
+- Basic Python - for test automation
+- Basic HTML and CSS
+- Creating documentation
+- experience with testing E-commerc web applications
+- performing smoke tests
+- 
+### Soft skills 📁
+- precision
+- communication
+- assertiveness
+- patience
+- empathy
+
+## Courses 📓
+- QA Training + PORTFOLIO
+- automated tests + Python PORTFOLIO
+- become a manual tester PORTFOLIO
+- Fundamentals of manual software testing
+- SQL training
+- Postman - REST API testing
+
+
 Certificates 🏆
-DareIT Challenge - become a manual tester
-Operating DevTools
-Fundamentals of manual software testing
-Postman - REST API testing
-INCO Green Digital Skills
-Samples 🔬
+- Machinfy - become a manual tester
+- Operating DevTools
+- Fundamentals of manual software testing
+- Postman - REST API testing
+
+
+-
+### Samples 🔬
+
 1. Allegro Sandbox
 
-Test plan
-Test cases
-Bug report
-Test report
+- Test plan
+- Test cases
+- Bug report
+- Test report
+
+  
 2. Generic Shop by TestArmy
 
 Test plan
 Scenario and test cases
 Bug report
-Test report
+Test report 
+-
 
