@@ -29,17 +29,57 @@ Completing my QA training at Machinfy Academy marked the beginning of my journey
 ### Tech skills 💻
 
 
-SQL
-syntax and order of execution	comparison operators	logical operators	scalar functions	aggregation functions	others
-SELECT (*, LIKE, TOP)	=	AND	GETDATE	COUNT ()	JOIN
-FROM	!=	BETWEEN	UPPER	SUM ()	AS
-WHERE	<>	IN	LOWER	MIN ()	UNION
-GROUP BY	>	LIKE	DATEDIFF (HOUR, MONTH, YEAR etc.)		
-ORDER BY (ASC, DESC)	<	NOT			
-UPDATE (SET)	>=	OR			
-ALTER TABLE (ADD)	<=	IS NULL			
-INSERT INTO	!<	IS NOT NULL			
-!>				
+## SQL 💾
+
+### Query Structure
+- SELECT
+- FROM
+- WHERE
+- GROUP BY
+- ORDER BY
+- INSERT INTO
+- UPDATE
+- ALTER TABLE
+
+### Operators
+- =
+- !=
+- <>
+- >
+- <
+- >=
+- <=
+
+### Logical Operators
+- AND
+- OR
+- NOT
+- BETWEEN
+- IN
+- LIKE
+- IS NULL
+- IS NOT NULL
+
+### Functions
+- GETDATE()
+- UPPER()
+- LOWER()
+- DATEDIFF()
+
+### Aggregation
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+
+### Advanced
+- JOIN
+- UNION
+- DISTINCT
+- HAVING
+
+
 Rest API testing
 ISTQB Foundation Level knowledge
 Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
