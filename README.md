@@ -6,7 +6,7 @@ Hi, my name is Abulrahman. Since the beginning of 2025 I have been studying and 
 [My Linkedin profile](https://www.linkedin.com/in/abdulrahman-rohaym/)
 
 
-# My experience 🏢
+## My experience 🏢
 
 Completing my QA training at Machinfy Academy marked the beginning of my journey in software testing. During the program, I developed a solid understanding of software testing fundamentals, including test case design, bug reporting, API testing, SQL, and test documentation. The training also helped me strengthen essential soft skills such as analytical thinking, attention to detail, and problem-solving. Through hands-on projects and practical exercises, I gained experience in identifying defects, documenting issues, and ensuring software quality, which further reinforced my passion for pursuing a career in Quality Assurance.
 
