@@ -116,7 +116,8 @@ Certificates 🏆
 - Postman - REST API testing
 
 
--
+<!--
+
 ### Samples 🔬
 
 1. Allegro Sandbox
@@ -133,5 +134,5 @@ Test plan
 Scenario and test cases
 Bug report
 Test report 
--
+
 
