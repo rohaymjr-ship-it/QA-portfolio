@@ -23,7 +23,7 @@ Completing my QA training at Machinfy Academy marked the beginning of my journey
 *My SQL Workbench - practicing SQL
 *Postman - API testing
 *IntelliJ IDEA - IDE for Python
-*Selenium
+- Selenium
 * Visual Studio Code - practicing HTML and CSS
 
 ### Tech skills 💻
