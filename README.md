@@ -14,17 +14,17 @@ Completing my QA training at Machinfy Academy marked the beginning of my journey
 
 ### Tools 🔧
 
--Jira, Trello - project management
--Google Meet - communication within the team
--Chrome Devtools - for better testing and improving bug reports
--Google Drive - storing data
--Git - for better work in development team and controlling software versions
--GitHub - supporting Git and preparing my repositories
--My SQL Workbench - practicing SQL
--Postman - API testing
--IntelliJ IDEA - IDE for Python
--Selenium
--Visual Studio Code - practicing HTML and CSS
+*Jira, Trello - project management
+*Google Meet - communication within the team
+*Chrome Devtools - for better testing and improving bug reports
+*Google Drive - storing data
+*Git - for better work in development team and controlling software versions
+*GitHub - supporting Git and preparing my repositories
+*My SQL Workbench - practicing SQL
+*Postman - API testing
+*IntelliJ IDEA - IDE for Python
+*Selenium
+* Visual Studio Code - practicing HTML and CSS
 
 ### Tech skills 💻
 
