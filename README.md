@@ -24,7 +24,7 @@ Completing my QA training at Machinfy Academy marked the beginning of my journey
 * Postman - API testing
 * IntelliJ IDEA - IDE for Python
 * Selenium
-* Visual Studio Code - practicing HTML and CSS
+
 
 ### Tech skills 💻
 
@@ -116,23 +116,26 @@ Certificates 🏆
 - Postman - REST API testing
 
 
-<!--
 
-### Samples 🔬
+### Projects 🔬
 
-1. Allegro Sandbox
+1. OpenCart Manual Testing
 
 - Test plan
 - Test cases
 - Bug report
 - Test report
 
+[Project linlk](https://github.com/rohaymjr-ship-it/OpenCart-Manual-Testing)
+
+
   
-2. Generic Shop by TestArmy
+2. Restful Booker Api Testing
 
-Test plan
-Scenario and test cases
-Bug report
-Test report 
+- Get
+- Create
+- Put
+- Delete
 
+[Project linlk](https://github.com/rohaymjr-ship-it/restful-booker-api-testing)
 
